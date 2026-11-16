@@ -1,0 +1,10 @@
+{
+  "name": "potato-simulator-summer",
+  "version": "0.6.1",
+  "private": true,
+  "description": "Локальный прототип одного вечера на бабушкиной грядке",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node scripts/smoke.mjs"
+  }
+}
